@@ -1,1 +1,1 @@
-This is my repository for the Cultural Data Science Course.
+This is my repository for the Cultural Data Science Course. All course materials will be found here.
