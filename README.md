@@ -1,1 +1,1 @@
-# cds_2024
+This is my repository for the Cultural Data Science Course.
